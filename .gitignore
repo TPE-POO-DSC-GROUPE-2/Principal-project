@@ -1,0 +1,16 @@
+# Fichiers système
+AppData/
+Documents/
+Desktop/
+*.tmp
+
+# Fichiers spécifiques
+.bash_history
+.cursor*
+.vscode/
+*.regtrans-ms
+*.blf
+NTUSER.*
+ntuser.*
+.eclipse/
+Downloads/
